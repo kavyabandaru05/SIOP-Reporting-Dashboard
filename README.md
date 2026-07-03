@@ -2,8 +2,7 @@
 
 ## Dashboard Preview
 
-![Solution Report](report.png.png)
-
+![Solution Report](Report.png.png)
 Interactive Power BI dashboard for Sales, Inventory, and Operations Planning (SIOP) analysis using DAX, Power Query, and data visualization.
 
 ## Tools Used
